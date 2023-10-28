@@ -24,7 +24,7 @@ Welcome to the Medication Information And Safety Alert System repository! This p
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/bishir-tm/med-alert-system.git
+   git clone https://github.com/Bishir-tm/med-safety-alert.git
    cd med-alert-system
    ```
 ````
